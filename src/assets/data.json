@@ -1,0 +1,302 @@
+{
+  "games": [
+    {
+      "title": "From Software Games",
+      "games": [
+        "Demon Souls", "Dark Souls I", "Dark Souls II", "Dark Souls III", "Sekiro Shadows Die Twice", "Bloodborne", "Elden Ring"
+      ]
+    },
+    {
+      "title": "Resident Evil Games",
+      "games": [
+        "Resident Evil", "Resident Evil 2", "Resident Evil 3", "Resident Evil 4", "Resident Evil 7", "Resident Evil 8"
+      ]
+    },
+    {
+      "title": "Crash Bandicoot Games",
+      "games": [
+        "Crash Bandicoot", "Crash Bandicoot 2", "Crash Bandicoot 3", "Crash Bandicoot 4"
+      ]
+    },
+    {
+      "title": "Cuphead"
+    },
+    {
+      "title": "Hollow Knight"
+    },
+    {
+      "title": "Hades"
+    },
+    {
+      "title": "Celeste"
+    },
+    {
+      "title": "Multiple"
+    }
+  ],
+  "sekiro": {
+    "title": "src/header/title/sekiro.png",
+    "bckImg": "",
+    "runs": [
+      {
+        "title": "SHURA ENDING",
+        "description": "Shura Ending"
+      },
+      {
+        "title": "IMMORTAL SEVERANCE ENDING",
+        "description": "Immortal Severance Ending"
+      },
+      {
+        "title": "PURIFICATION ENDING",
+        "description": "Purification Ending"
+      },
+      {
+        "title": "RETURN ENDING",
+        "description": "Return Ending"
+      },
+      {
+        "title": "ALL BEADS & MEMORIES",
+        "description": "All Beads & Memories"
+      }
+    ],
+    "sectionNoHitters": [
+      {
+        "title": "SHURA ENDING",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "INMORTAL ENDING",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "PURIFICATION ENDING",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "RETURN ENDING",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      }
+    ],
+    "sectionRules": {
+      "title": "HITLESS RULES FOR SEKIRO",
+      "bckIMG": "",
+      "general": {
+        "title": "General Rules",
+        "rules": "A Hit is defined by a loss of health and/or stagger caused by an enemy. Hits from player triggered traps count, environmental damage does not (Static features as lava, water, swamp, spikes, campfires are fine). While fall damage does not count, a death from falling will. Blocking an enemy counts as a hit, but a perfect parry/deflect does not. The use of magic and/or bows is fine. Major glitches ARE NOT ALLOWED (Shadows AI Glitch, Sage Skip, etc.). Sequence breaking events ARE NOT ALLOWED. Minor glitches ARE ALLOWED (Air roll fall damage cancel, animation cancel, etc.). Quitouts are GENERALLY NOT ALLOWED, because throughout the series(except DS2), it resets enemy positions, which would've make running sections way easier. Quitouts are allowed in Demon's Souls and Dark Souls 1, because of clunky game mechanics (Fog Ring pickup, Farming Lizards in DeS), but WHEN YOU ARE NOT BEING CHASED BY AN ENEMY."
+      },
+      "specific": {
+          "title": "Specific Rules for Sekiro",
+          "rules": [
+            "Gyoubu Oniwa and Demon of Hatred skips are not allowed.", "Genichiro Ashina and Great Shinobi Owl cheeses are allowed.", "Corrupted Monk (Illusion) aerial deathblow cheese is allowed.", "Armored Warrior cheese is allowed.", "If Armored Warrior's berserk combo breaks your posture when you deflect it, it is not a hit.", "Staggers from phase transitions are hits.", "Great Shinobi Owl's anti-heal bomb is not a hit.", "Great Shinobi Owl's smoke bomb is a hit.", "Juzou the Drunkard's poison smoke stun is a hit.", "Divine Dragon's gust/wind attack is a hit (except for the first gust when entering the fight as it's unavoidable).", "Falling into the abyss and getting a black screen from fall damage is a hit.", "Yashariku's Sugar counts as damage taken and is not allowed for “No Damage” runs.", "Mortal Journey is not valid to officially join the team, but team members can submit Mortal Journey runs for the website."
+          ]
+        }
+    },
+    "submitSection": {
+      "title": "SUBMIT A RUN",
+      "bckImg": "",
+      "description": "You finished your first No Hit Run in Sekiro? Click on the “Submit” button for more information to get into the team!",
+      "URL": "",
+      "verifier": {
+        "title": "VERIFIER FOR SEKIRO",
+        "users": [
+          {
+            "img": "",
+            "username": "GinoMachino"
+          },
+          {
+            "img": "",
+            "username": "Seki"
+          },
+          {
+            "img": "",
+            "username": "Spiral_Out"
+          }
+        ]
+      }
+    }
+  },
+  "darksoulsi": {
+    "title": "",
+    "bckImg": "",
+    "runs": [
+      {
+        "title": "Any %",
+        "description": "Whatever bosses are needed to reach the end credits of the game. Most of the time this means only the required bosses will completed, but some specialized runs will call for optional content to be included in their Any%."
+      },
+      {
+        "title": "All Main Game Bosses",
+        "description": "All bosses in the base game (no DLC)"
+      },
+      {
+        "title": "All Bosses",
+        "description": "All bosses in the game, including DLCs."
+      },
+      {
+        "title": "All Achievements",
+        "description": "Literally all the trophies of the game."
+      }
+
+    ],
+    "sectionNoHitters": [
+      {
+        "title": "Any %",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "All Main Game Bosses",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "All Bosses",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "All Achievements",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      }
+    ],
+    "sectionRules": {
+      "title": "HITLESS RULES FOR DARK SOULS I",
+      "bckIMG": "",
+      "general": {
+        "title": "General Rules",
+        "rules": "A Hit is defined by a loss of health and/or stagger caused by an enemy. Hits from player triggered traps count, environmental damage does not (Static features as lava, water, swamp, spikes, campfires are fine). While fall damage does not count, a death from falling will. Blocking an enemy counts as a hit, but a perfect parry/deflect does not. The use of magic and/or bows is fine. Major glitches ARE NOT ALLOWED (Shadows AI Glitch, Sage Skip, etc.). Sequence breaking events ARE NOT ALLOWED. Minor glitches ARE ALLOWED (Air roll fall damage cancel, animation cancel, etc.). Quitouts are GENERALLY NOT ALLOWED, because throughout the series(except DS2), it resets enemy positions, which would've make running sections way easier. Quitouts are allowed in Demon's Souls and Dark Souls 1, because of clunky game mechanics (Fog Ring pickup, Farming Lizards in DeS), but WHEN YOU ARE NOT BEING CHASED BY AN ENEMY."
+      },
+      "specific": {
+          "title": "Specific Rules for Dark Souls I",
+          "rules": [
+            "Stone Knights slow debuff, before Moonlight Butterfly bossfight is NOT a hit","Invader stagger duing invasion, when the player stands on top of him is a hit", "Campfires in which you mistakenly could run in (Farron Keep, Forbidden Woods, Lower Undead Burg) is NOT a hit", "Killing Bosses/Ads from outside of the arena is forbidden", "The status effect “Curse” caused by enemies and traps is a hit. The upbuilding bar is not a hit unless it deals damage (Nashandra curse). If you need to get cursed to finish a specific no hit run and only if you cant avoid getting cursed to finish it is ALLOWED!", "Nothing counts as a hit in Seath's 1st encounter"
+          ]
+        }
+    },
+    "submitSection": {
+      "title": "SUBMIT A RUN",
+      "bckImg": "",
+      "description": "You finished your first No Hit Run in Dark Souls I? Click on the “Submit” button for more information to get into the team!",
+      "URL": "",
+      "verifier": {
+        "title": "VERIFIER FOR DARK SOULS I",
+        "users": [
+          {
+            "img": "",
+            "username": "SoyKeinon"
+          },
+          {
+            "img": "",
+            "username": "Kazoodle"
+          },
+          {
+            "img": "",
+            "username": "Klampscast"
+          },
+          {
+            "img": "",
+            "username": "BarkerGH"
+          },
+          {
+            "img": "",
+            "username": "Valkyriexxxx"
+          },
+          {
+            "img": "",
+            "username": "LeydyBug"
+          }
+        ]
+      }
+    }
+  },
+  "hollowknight": {
+    "title": "",
+    "bckImg": "",
+    "runs": [
+      {
+        "title": "Any %",
+        "description": "Whatever bosses are needed to reach the end credits of the game. Most of the time this means only the required bosses will completed, but some specialized runs will call for optional content to be included in their any %."
+      },
+      {
+        "title": "True Ending",
+        "description": "Whatever is need, bosses and charms, to reach the “Dream No More” ending of the game."
+      },
+      {
+        "title": "Pantheon 5",
+        "description": "Beating Pantheon 5. It can be done on a Normal Game file or a Godseeker Mode file."
+      },
+      {
+        "title": "All Main Game Bosses",
+        "description": "Beat all the main game bosses in a new savefile and reaching the credits (this not include DLC). Bosses must be defeated at their original spot, using godhome to reach a boss is not allowed."
+      },
+      {
+        "title": "All Skills",
+        "description": "Beat the game and reach the credits having collected: All Movement skills (Mothwing Cloak, Shade Cloak, Mantis Claw, Monarch Wings, Isma's Tear), All Nail Arts (Dash Slash, Great Slash, Cyclone Slash) and All Spells (Vengeful Spirit & Shade Soul, Howling Wraiths & Abyss Shriek, Desolate Dive & Descending Dark)."
+      },
+      {
+        "title": "Low%",
+        "description": "Beat the game with 11% completion. Requires showing credits and post-credits game completion %. (Breakdown: 1% Vengeful Spirit, 2% Mantis Claw, 1% Dream Nail, 2% Crystal Heart, 1% Watcher Knights, 1% Uumuu, 3% Dreamers)."
+      }
+
+    ],
+    "sectionNoHitters": [
+      {
+        "title": "Any %",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "True Ending",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "Pantheon 5",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "All Main Game Bosses",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "All Skills",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      },
+      {
+        "title": "Low %",
+        "NoHitters": ["PpauxD", "Catalists", "Bajamuten", "IPlosly"]
+      }
+    ],
+    "sectionRules": {
+      "title": "HITLESS RULES FOR HOLLOW KHIGHT",
+      "bckIMG": "",
+      "general": {
+        "title": "General Rules",
+        "rules": "A Hit is defined by a loss of health and/or stagger caused by an enemy. Hits from player triggered traps count, environmental damage does not (Static features as lava, water, swamp, spikes, campfires are fine). While fall damage does not count, a death from falling will. Blocking an enemy counts as a hit, but a perfect parry/deflect does not. The use of magic and/or bows is fine. Major glitches ARE NOT ALLOWED (Shadows AI Glitch, Sage Skip, etc.). Sequence breaking events ARE NOT ALLOWED. Minor glitches ARE ALLOWED (Air roll fall damage cancel, animation cancel, etc.). Quitouts are GENERALLY NOT ALLOWED, because throughout the series(except DS2), it resets enemy positions, which would've make running sections way easier. Quitouts are allowed in Demon's Souls and Dark Souls 1, because of clunky game mechanics (Fog Ring pickup, Farming Lizards in DeS), but WHEN YOU ARE NOT BEING CHASED BY AN ENEMY."
+      },
+      "specific": {
+        "title": "Specific Rules for Hollow Knight",
+        "rules": [
+        ]
+      }
+
+    },
+    "submitSection": {
+      "title": "SUBMIT A RUN",
+      "bckImg": "",
+      "description": "You finished your first No Hit Run in Dark Souls I? Click on the “Submit” button for more information to get into the team!",
+      "URL": "",
+      "verifier": {
+        "title": "VERIFIER FOR HOLLOW KHIGHT",
+        "users": [
+          {
+            "img": "",
+            "username": "Spiral_Out"
+          },
+          {
+            "img": "",
+            "username": "Zirob21"
+          },
+          {
+            "img": "",
+            "username": "YackNights"
+          }
+        ]
+      }
+    }
+  }
+}
